@@ -1,0 +1,19 @@
+C:\Users\edwar\source\repos\Coways Redisgn\Coways Redisgn\bin\Debug\Coways Redisgn.exe.config
+C:\Users\edwar\source\repos\Coways Redisgn\Coways Redisgn\bin\Debug\Coways Redisgn.exe
+C:\Users\edwar\source\repos\Coways Redisgn\Coways Redisgn\bin\Debug\Coways Redisgn.pdb
+C:\Users\edwar\source\repos\Coways Redisgn\Coways Redisgn\obj\Debug\Coways Redisgn.csprojAssemblyReference.cache
+C:\Users\edwar\source\repos\Coways Redisgn\Coways Redisgn\obj\Debug\Coways_Redisgn.Form1.resources
+C:\Users\edwar\source\repos\Coways Redisgn\Coways Redisgn\obj\Debug\Coways_Redisgn.Properties.Resources.resources
+C:\Users\edwar\source\repos\Coways Redisgn\Coways Redisgn\obj\Debug\Coways Redisgn.csproj.GenerateResource.cache
+C:\Users\edwar\source\repos\Coways Redisgn\Coways Redisgn\obj\Debug\Coways Redisgn.exe
+C:\Users\edwar\source\repos\Coways Redisgn\Coways Redisgn\obj\Debug\Coways Redisgn.pdb
+C:\Users\edwar\Desktop\uni\edwardbarclay12092603\Final Version\Coways Redisgn\Coways Redisgn\bin\Debug\Coways Redisgn.exe.config
+C:\Users\edwar\Desktop\uni\edwardbarclay12092603\Final Version\Coways Redisgn\Coways Redisgn\bin\Debug\Coways Redisgn.exe
+C:\Users\edwar\Desktop\uni\edwardbarclay12092603\Final Version\Coways Redisgn\Coways Redisgn\bin\Debug\Coways Redisgn.pdb
+C:\Users\edwar\Desktop\uni\edwardbarclay12092603\Final Version\Coways Redisgn\Coways Redisgn\obj\Debug\Coways Redisgn.csprojAssemblyReference.cache
+C:\Users\edwar\Desktop\uni\edwardbarclay12092603\Final Version\Coways Redisgn\Coways Redisgn\obj\Debug\Coways_Redisgn.Form1.resources
+C:\Users\edwar\Desktop\uni\edwardbarclay12092603\Final Version\Coways Redisgn\Coways Redisgn\obj\Debug\Coways_Redisgn.Properties.Resources.resources
+C:\Users\edwar\Desktop\uni\edwardbarclay12092603\Final Version\Coways Redisgn\Coways Redisgn\obj\Debug\Coways Redisgn.csproj.GenerateResource.cache
+C:\Users\edwar\Desktop\uni\edwardbarclay12092603\Final Version\Coways Redisgn\Coways Redisgn\obj\Debug\Coways Redisgn.csproj.CoreCompileInputs.cache
+C:\Users\edwar\Desktop\uni\edwardbarclay12092603\Final Version\Coways Redisgn\Coways Redisgn\obj\Debug\Coways Redisgn.exe
+C:\Users\edwar\Desktop\uni\edwardbarclay12092603\Final Version\Coways Redisgn\Coways Redisgn\obj\Debug\Coways Redisgn.pdb
